@@ -1,0 +1,11 @@
+{
+  "name": "poketables",
+  "version": "0.0.0",
+  "description": "A backend to get data from all the pokemon games and some tracking",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Muriel Zamora",
+  "license": "ISC"
+}
